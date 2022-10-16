@@ -1,2 +1,2 @@
 # Ok-uOyunu
-Hareketli bir png(okçu) ve hareketli bir topun bulunduğu bu oyunda okçunun attığı oklarla topu vurmaya ve oyunu bitirmeye çalışıyoruz.
+We got a archer in this game and our purpose is shooting the ball who moving in line.
